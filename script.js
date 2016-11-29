@@ -6,5 +6,5 @@ $(function() {
 
 function dealWithIt() {
   console.log("hello")
-    $("#glasses").animate({top: "+=250"}, 1500)
+    $("#glasses").animate({top: "+=280"}, 1500)
 }
